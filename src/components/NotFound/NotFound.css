@@ -1,0 +1,33 @@
+.not-found-div{
+    background-color: rgb(245, 243, 252);
+}
+.image{
+    width: 30%;
+}
+h5{
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 50px;
+}
+p{
+    font-size: 22px;
+    color: gray;
+}
+.btn-1{
+    background-color: rgb(237, 89, 35) !important;
+    color: white !important;
+    padding: 15px 25px !important;
+    margin: 15px !important;
+    border-radius: 15px !important;
+}
+.btn-1:hover{
+    background-color: rgb(255, 21, 0) !important;
+}
+.btn-2{
+    background-color: white !important;
+    color: black !important;
+    padding: 15px 25px !important;
+    margin: 15px !important;
+    border-radius: 15px !important;
+}

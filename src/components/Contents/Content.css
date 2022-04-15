@@ -1,0 +1,13 @@
+.content-container{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-item{
+    background-color: rgb(124, 119, 119);
+    display: flex !important ;
+    justify-content: center !important;
+    align-items: center !important;
+}

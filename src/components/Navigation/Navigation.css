@@ -1,0 +1,11 @@
+nav{
+    background-color: rgb(9, 18, 102);
+    color: white;
+}
+
+.navLink{
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin-right: 20px;
+}
