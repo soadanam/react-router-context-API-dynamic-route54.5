@@ -25,8 +25,9 @@ const Country = (props) => {
                     {props.country.name.common}
                 </h4>
                 <p variant="body2" color="text.secondary">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quo amet non tenetur dolorum reprehenderit
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quo amet non tenetur
                 </p>
+                
             </CardContent>
             <CardActions>
                 <Button size="small">Share</Button>
